@@ -4,7 +4,7 @@ hello
 
 # chapter 13.Wiener Process and Ito Lemma
 13.1 the markov property
-a type of stochastic process
+ a type of stochastic process
 
 ps.
 1.

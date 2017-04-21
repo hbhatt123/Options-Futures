@@ -13,7 +13,7 @@ a type of stochastic process,only time
  13.2 CONTINUOUS-TIME STOCHASTIC PROCESSES
 ___
 Wiener Process(Brownian Motion),u=0,v=1,a type of markov
-
+ import numpy as np
 ps.
 1.
 2.q world vs. p world
